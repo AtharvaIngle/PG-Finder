@@ -40,7 +40,7 @@ export default function Footer() {
         <h2>PG-Finder</h2>
         <p>Explore the website for much more Amazing experience !
         </p>
-        <p>Contact No: +917264880388   &ensp; &ensp; &ensp;    Gmail: pgfinder@gmail.com</p>
+        <p>Contact No: +917264880388   &ensp; &ensp; &ensp;    Gmail: pgfinder16@gmail.com</p>
 
       </div>
 
